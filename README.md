@@ -1,2 +1,2 @@
 # Calculator
-A fully functional calcuator developed in C++.
+A fully functioning calcuator developed using C++.
